@@ -1,14 +1,14 @@
 {
-  "name": "ISLAMICK BOT",
+  "name": "Muniya ☢️_𖣘 -𝐁𝐎𝐓 ⚠️",
   "version": "10.1.1",
-  "description": "made by 𝐂𝐘𝐁𝐄𝐑 ☢️_𖣘 -𝐁𝐎𝐓 ⚠️ 𝑻𝑬𝑨𝑴_☢️",
+  "description": "made by Rasel",
   "main": "Cyber.js",
   "engines": {
       "node": "20.x",
       "npm": "10.0.0"
   },
   "scripts": {
-      "start": "node Ullash.js",
+      "start": "node Rasel.js",
       "login": "node login",
       "test": "node --trace-warnings --use_strict --async-stack-traces mirai"
   },
@@ -27,7 +27,7 @@
       "cyberRajib ",
       "islamick chat bot"
   ],
-  "author": "Ullash ッ",
+  "author": "Rasel",
   "license": "GPL-3.0",
   "bugs": {
       "url": "https://github.com/cyber-ullash/CYBER-BOT-COMMUNITY/issues"
